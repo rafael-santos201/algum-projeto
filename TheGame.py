@@ -1,7 +1,7 @@
 import pygame
 
 
-#Objetos 
+#Objeto
 class Celulas():
     def __init__(self, life):
         self.life = True
